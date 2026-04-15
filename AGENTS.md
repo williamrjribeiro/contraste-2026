@@ -2,17 +2,17 @@
 
 ## Cursor Cloud specific instructions
 
-This is an early-stage TypeScript project using **Bun** as the runtime and package manager (`bun.lock`).
+This is an early-stage TypeScript project that uses **Bun** for the runtime, package manager (`bun.lock`), and bundling. Prefer **`bun`** and **`bunx`** over `npm`, `npx`, or invoking Node directly for project commands and one-off CLI tools.
 
 ### Key commands
 
-| Task             | Command                                              |
-| ---------------- | ---------------------------------------------------- |
-| Install deps     | `bun install`                                        |
-| Lint markdown    | `bun run lint:md`                                    |
-| Format markdown  | `bun run format:md`                                  |
-| Run a `.ts` file | `bun run <file>.ts`                                  |
-| Type-check       | `npx tsc --noEmit` (no `.ts` source files exist yet) |
+| Task             | Command                                               |
+| ---------------- | ----------------------------------------------------- |
+| Install deps     | `bun install`                                         |
+| Lint markdown    | `bun run lint:md`                                     |
+| Format markdown  | `bun run format:md`                                   |
+| Run a `.ts` file | `bun run <file>.ts`                                   |
+| Type-check       | `bunx tsc --noEmit` (no `.ts` source files exist yet) |
 
 ### Notes
 
