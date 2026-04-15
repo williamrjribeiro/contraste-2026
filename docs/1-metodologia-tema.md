@@ -44,8 +44,9 @@ Exemplos de temas a explorar
 * `{tema}`
 * Contexto (2–3 parágrafos)
 * Score detalhado
- 
- Exemplo:
+
+Exemplo:
+
 | Tema                        | Slug              | Pasta                   | Score |
 | --------------------------- | ----------------- | ----------------------- | ----- |
 | Política Económica e Fiscal | `economia_fiscal` | `data/economia_fiscal/` | 6     |
