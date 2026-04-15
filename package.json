@@ -1,0 +1,34 @@
+{
+  "name": "contraste-2026",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint:md": "remark . --quiet --frail",
+    "format:md": "remark . --quiet --output"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-gfm",
+      "remark-preset-lint-consistent",
+      "remark-preset-lint-recommended"
+    ]
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "remark-cli": "^12.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-lint-emphasis-marker": "^4.0.1",
+    "remark-lint-heading-style": "^4.0.1",
+    "remark-lint-list-item-indent": "^4.0.1",
+    "remark-lint-strong-marker": "^4.0.1",
+    "remark-preset-lint-consistent": "^6.0.1",
+    "remark-preset-lint-recommended": "^7.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "csv-simple-parser": "^2.0.2"
+  }
+}
