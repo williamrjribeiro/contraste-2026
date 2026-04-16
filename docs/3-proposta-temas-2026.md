@@ -15,6 +15,31 @@ Este ficheiro consolida **dez avaliações independentes** feitas em paralelo (c
 
 ***
 
+## Cruzamento com o Datafolha (março de 2026)
+
+O site do **Datafolha** ([https://datafolha.folha.uol.com.br/](https://datafolha.folha.uol.com.br/)) publica, entre outras rubricas, levantamentos em **Opinião e sociedade** e **Eleições**. Dois textos de **março de 2026** ajudam a calibrar **relevância eleitoral** e a proximidade com o que os brasileiros dizem priorizar neste ciclo:
+
+1. **Problemas de responsabilidade federal (espontâneo)** — *“Saúde (21%) e segurança pública (19%) são áreas de responsabilidade federal mais problemáticas”*, 12/03/2026, com relatório em PDF: [https://datafolha.folha.uol.com.br/opiniao-e-sociedade/2026/03/saude-21-e-seguranca-publica-19-sao-areas-de-responsabilidade-federal-mais-problematicas.shtml](https://datafolha.folha.uol.com.br/opiniao-e-sociedade/2026/03/saude-21-e-seguranca-publica-19-sao-areas-de-responsabilidade-federal-mais-problematicas.shtml) ([PDF](https://media.folha.uol.com.br/datafolha/2026/03/12/naikc-6wqycemf1swpldckx3guswoflcu2riw5fw5ve.pdf)).
+
+   No corpo da notícia, o instituto resume a hierarquia (citações **espontâneas** do “principal problema” entre áreas federais): **saúde 21%**; **segurança pública/violência 19%** (em alta face a levantamentos anteriores); temas económicos (inflação, economia em geral, preços) **11%**; **corrupção 9%**; **educação 9%**; desemprego 4%; outros.
+
+2. **Jornada e escala 6×1** — *“Fim da escala seis por um tem apoio de 71% dos brasileiros”*, 17/03/2026: [https://datafolha.folha.uol.com.br/opiniao-e-sociedade/2026/03/fim-da-escala-seis-por-um-tem-apoio-de-71-dos-brasileiros.shtml](https://datafolha.folha.uol.com.br/opiniao-e-sociedade/2026/03/fim-da-escala-seis-por-um-tem-apoio-de-71-dos-brasileiros.shtml) ([PDF](https://media.folha.uol.com.br/datafolha/2026/03/17/r80acaiauggabqidn4ohymjajw2iejdvxtnfp-htpb0.pdf)). **71%** dos entrevistados (16+ anos) dizem que a **carga máxima de trabalho deveria ser reduzida** face ao enquadramento legal atual (44h, até seis dias — escala 6×1).
+
+### Tabela de alinhamento (Datafolha → slugs deste projeto)
+
+| Indicador ou eixo Datafolha (mar. 2026) | Slug(s) do projeto que cobrem o recorte |
+| --------------------------------------- | ---------------------------------------- |
+| Saúde como principal problema federal (21%) | `sus_financiamento_planos_emendas_regionalizacao` (recorte orçamentário e federativo, não “saúde” vaga) |
+| Segurança pública/violência (19%) | `seguranca_publica_politica_armas` |
+| Economia / preços / inflação (11%) | `implementacao_reforma_tributaria_iv_dual` (efeitos de transição e setores) |
+| Educação (9%) | `novo_ensino_medio_avaliacao_financiamento` |
+| Corrupção (9%) | *Não há slug dedicado na lista de dez;* possível tema futuro ou ângulo transversal em `anistia_8_janeiro` / governança — a validar no fecho dos cinco |
+| Apoio majoritário à redução de jornada / fim do 6×1 (71%) | `jornada_trabalho_modelo_6x1` |
+
+Temas fortes no projeto mas **fora do ranking espontâneo** da pergunta federal acima — **IA**, **Amazônia/metas climáticas**, **Venezuela**, **desinformação** — continuam válidos pelo quadro de `docs/1-metodologia-tema.md`, mas pesam mais em **diferenciação programática** e **documentação técnica** do que em “top of mind” dessa pergunta específica.
+
+***
+
 ## Tabela — dez temas avaliados em paralelo
 
 | Tema (título) | Slug (`data/<slug>/`) | R | D | Doc | A | Total |
@@ -36,7 +61,21 @@ Este ficheiro consolida **dez avaliações independentes** feitas em paralelo (c
 
 ## Conjunto sugerido para o Passo 1 (`docs/passos.md`): cinco temas
 
-Para cobrir **eixos distintos** da disputa (trabalho, democracia institucional, tecnologia, clima, financiamento de políticas) sem sobrepor demasiado “orçamento macro” com “reforma tributária”, a proposta inicial é:
+### Versão A — alinhamento explícito ao Datafolha (março 2026)
+
+Esta versão **espelha** os dois primeiros lugares da pergunta espontânea sobre problemas federais (**saúde**, **segurança**), o **bloco económico** (11%), a **educação** (9%) e o levantamento dedicado à **jornada/6×1** (71% a favor da redução da carga máxima). Mantém **cinco temas** sem duplicar “economia” genérica.
+
+| # | Tema | Slug | Pasta sugerida | Âncora Datafolha |
+| - | ---- | ---- | --------------- | ---------------- |
+| 1 | Jornada de trabalho / 6×1 | `jornada_trabalho_modelo_6x1` | `data/jornada_trabalho_modelo_6x1/` | Apoio 71% à redução da jornada máxima (17/03/2026) |
+| 2 | Financiamento do SUS, planos e emendas | `sus_financiamento_planos_emendas_regionalizacao` | `data/sus_financiamento_planos_emendas_regionalizacao/` | Saúde 21% como principal problema federal (12/03/2026) |
+| 3 | Segurança pública e política de armas | `seguranca_publica_politica_armas` | `data/seguranca_publica_politica_armas/` | Segurança/violência 19% (12/03/2026) |
+| 4 | Implementação da reforma tributária (IVA dual) | `implementacao_reforma_tributaria_iv_dual` | `data/implementacao_reforma_tributaria_iv_dual/` | Bloco económico/inflação/preços 11% |
+| 5 | Novo Ensino Médio, SAEB/Enem e financiamento | `novo_ensino_medio_avaliacao_financiamento` | `data/novo_ensino_medio_avaliacao_financiamento/` | Educação 9% |
+
+### Versão B — equilíbrio “agenda pública + diferenciação de campanha”
+
+Se quiser **forçar** um eixo de **democracia institucional** que polariza pré-candidatos mas **não aparece** como categoria espontânea nesse recorte do Datafolha, troque o **#5** da Versão A por **`anistia_8_janeiro`**, ou o **#4** por **anistia** e mantenha a tributária como **reserva** (ver abaixo).
 
 | # | Tema | Slug | Pasta sugerida |
 | - | ---- | ---- | --------------- |
@@ -46,15 +85,17 @@ Para cobrir **eixos distintos** da disputa (trabalho, democracia institucional, 
 | 4 | Amazônia, desmatamento e metas climáticas | `desmatamento_amazonia_metas_climaticas` | `data/desmatamento_amazonia_metas_climaticas/` |
 | 5 | Financiamento do SUS, planos e emendas | `sus_financiamento_planos_emendas_regionalizacao` | `data/sus_financiamento_planos_emendas_regionalizacao/` |
 
-**Reserva bem fundamentada (troca 1:1):** `implementacao_reforma_tributaria_iv_dual` em lugar do tema 5 se a prioridade for **arquitetura fiscal e federalismo** em vez de **saúde e orçamento da atenção**.
+**Reservas (troca 1:1):** `seguranca_publica_politica_armas` (Datafolha 19%) se a Versão B ficar sem segurança; `implementacao_reforma_tributaria_iv_dual` (Datafolha 11% económico) em lugar do **#4** ou **#5** conforme a sua prioridade analítica.
 
 ***
 
 ## Contexto resumido (por tema sugerido)
 
+Os blocos abaixo cobrem os slugs das **Versões A e B**; use só os que corresponderem ao conjunto de cinco que fechar.
+
 ### `jornada_trabalho_modelo_6x1`
 
-Em 2025–2026 o debate sobre **fim da escala 6×1** e **redução da jornada** ocupou centro do Congresso e da comunicação de governo, com reação de entidades patronais e de pré-candidatos de centro-direita que associam flexibilização da CLT a competitividade. O tema é **mensurável** (propostas legislativas, pesquisas de opinião sobre jornada, posições públicas em entrevistas) e **polariza** de forma legível entre o campo que ancora direitos trabalhistas e o que defende desregulamentação.
+Em 2025–2026 o debate sobre **fim da escala 6×1** e **redução da jornada** ocupou centro do Congresso e da comunicação de governo, com reação de entidades patronais e de pré-candidatos de centro-direita que associam flexibilização da CLT a competitividade. O **Datafolha** (17/03/2026) regista **71%** a favor da **redução da carga máxima** no enquadramento atual (44h, até seis dias — 6×1), o que reforça **relevância eleitoral** além da cobertura legislativa. O tema é **mensurável** (propostas, sondagens, posições públicas) e **polariza** de forma legível.
 
 ### `anistia_8_janeiro`
 
@@ -70,7 +111,19 @@ Indicadores oficiais e de alerta (**MMA**, **INPE/DETER**, **IBAMA**) dão ânco
 
 ### `sus_financiamento_planos_emendas_regionalizacao`
 
-Recorte evita “saúde” genérica: concentra-se em **quem financia o SUS**, **contribuição de planos**, **canal das emendas** e **desigualdade regional** de acesso. Há base em **Ministério da Saúde**, **ANS**, **Congresso** e literatura de institutos — adequado a afirmações mensuráveis e a tensões federativas.
+Recorte evita “saúde” genérica: concentra-se em **quem financia o SUS**, **contribuição de planos**, **canal das emendas** e **desigualdade regional** de acesso. Há base em **Ministério da Saúde**, **ANS**, **Congresso** e literatura de institutos — adequado a afirmações mensuráveis e a tensões federativas. O **Datafolha** de 12/03/2026 coloca **saúde** no topo das **citações espontâneas** de problemas federais (**21%**), o que sustenta a escolha deste slug em vez de um tema de saúde indiferenciado.
+
+### `seguranca_publica_politica_armas`
+
+O mesmo levantamento de 12/03/2026 posiciona **segurança pública/violência** em **19%** nas respostas espontâneas (em alta face a ondas anteriores), com **diferença por género** (homens citam mais segurança; mulheres, mais saúde). O recorte proposto (armas, fronteiras, federalismo, crime organizado com base institucional) mantém o tema **específico** e comparável entre candidatos.
+
+### `implementacao_reforma_tributaria_iv_dual`
+
+O bloco **económico** agregado (inflação, economia em geral, aumento de preços) aparece com **11%** no levantamento espontâneo de março de 2026 — não substitui uma sondagem dedicada à reforma tributária, mas ancora **relevância** numa reforma com **texto legal**, cronograma de transição e **efeitos setoriais** mensuráveis (Receita Federal, IBGE).
+
+### `novo_ensino_medio_avaliacao_financiamento`
+
+**Educação** surge com **9%** no mesmo recorte espontâneo federal. O foco em **NEM**, **SAEB/Enem** e **financiamento** evita “educação” genérica e liga o tema a normas do **MEC**, dados do **INEP** e tensão de implementação nos estados.
 
 ***
 
