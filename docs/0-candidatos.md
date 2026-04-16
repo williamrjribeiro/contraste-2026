@@ -2,6 +2,8 @@
 
 Panorama com base em reportagens de **março–abril de 2026**. Os nomes abaixo são **pré-candidaturas** ou intenções públicas; o registro oficial de candidaturas no TSE ocorre após convenções partidárias (calendário típico: **julho–agosto de 2026**). **Primeiro turno:** 4 de outubro de 2026; **eventual segundo turno:** 25 de outubro de 2026.
 
+Perfis padronizados (biografia, formação, trajetória, redes e fontes): pasta [`docs/perfis/`](perfis/).
+
 ***
 
 ## Principais pré-candidatos (ordem alfabética por nome)
