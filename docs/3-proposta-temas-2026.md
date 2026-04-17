@@ -1,5 +1,7 @@
 # Proposta de temas — Brasil 2026 (avaliação paralela)
 
+**Lista fechada dos cinco temas, tópicos internos e `accountability_type`:** ver `docs/4-temas-finais-2026.md`.
+
 Este ficheiro consolida **dez avaliações independentes** feitas em paralelo (cada uma com foco num tema), seguindo o quadro de `docs/1-metodologia-tema.md`:
 
 | Critério | Pergunta prática | Score |
