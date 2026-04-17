@@ -43,6 +43,12 @@ Dois a quatro parágrafos curtos, tom factual, em português (Brasil).
 
 - … (ordem cronológica)
 
+## Controvérsias, investigações e críticas públicas
+
+Lista factual: cada item deve apontar **acusação, investigação, decisão ou crítica** como aparece na fonte, sem equiparar automaticamente a culpa. Preferir veículos reconhecidos, tribunais e órgãos públicos. Quando o caso tiver relação direta com **inelegibilidade** ou **registro no TSE**, pode-se referenciar a **LC 135/2010** e a **LC 64/1990** no próprio item ([Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa); textos no [Planalto](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm)).
+
+- …
+
 ## Redes sociais e canais oficiais
 
 Incluir apenas o que puder ser ligado com segurança ao mandato, à pré-campanha ou ao partido (site institucional, perfis citados pelo próprio veículo oficial ou portal do Congresso/Senado). Use URLs completas em links Markdown. Se não houver confirmação: *Não localizado com segurança nesta pesquisa.*

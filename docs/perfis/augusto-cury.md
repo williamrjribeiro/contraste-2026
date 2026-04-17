@@ -1,6 +1,6 @@
 # Augusto Jorge Cury
 
-*Slug: `augusto-cury` · Atualizado: 2026-04-16 · Status: pré-candidatura*
+*Slug: `augusto-cury` · Atualizado: 2026-04-17 · Status: pré-candidatura*
 
 **Nome de urna / como é conhecido:** Augusto Cury / Dr. Augusto Cury  
 **Partido (pré-candidatura 2026):** Avante (70)  
@@ -38,6 +38,17 @@ Em 2026, o Avante divulgou publicamente sua pré-candidatura à Presidência, en
 - **2026:** filiação anunciada ao Avante e pré-candidatura à Presidência da República divulgada pelo partido em 5 de abril de 2026, com ampla repercussão na imprensa (G1, Folha, entre outros).
 - **Demais cargos eletivos:** não há registro público, nesta pesquisa, de mandatos eletivos anteriores; trata-se de estreia partidária em nível nacional segundo declarações à imprensa.
 
+## Controvérsias, investigações e críticas públicas
+
+- **Parceria MEC/Capes e Florida Christian University (2020):** Folha descreve acordo e contexto de controvérsias envolvendo a FCU no Brasil; Cury aparece como palestrante previsto em evento associado. ([Folha](https://www1.folha.uol.com.br/educacao/2020/03/mec-faz-acordo-com-faculdade-de-coaching-religioso-dos-eua.shtml))
+- **Uniderc / mestrado e doutorado (2014):** G1 sobre suspensão judicial de divulgação de cursos (contexto de debates sobre credenciação no Nordeste). ([G1](https://g1.globo.com/pe/caruaru-regiao/noticia/2014/09/jfpe-suspende-divulgacao-de-cursos-de-mestrado-e-doutorado-da-uniderc.html))
+- **Críticas acadêmicas à “Inteligência Multifocal”:** verbete na Wikipédia compila críticas e referências (usar como roteiro, checando cada citação). ([Wikipédia — Augusto Cury](https://pt.wikipedia.org/wiki/Augusto_Cury))
+- **Texto de crítica científica/divulgação:** Interd com críticas duras à obra e ao método (tom opinativo). ([Interd](https://interd.net.br/augusto-cury-reprovado/24/05/2019/))
+- **Pré-candidatura e “anti-polarização” vs. equipe bolsonarista:** Painel (Folha) sobre marqueteiro que trabalhou com Jair e Flávio Bolsonaro na pré-campanha de Cury. ([Folha — Painel](https://www1.folha.uol.com.br/colunas/painel/2026/04/marqueteiro-que-trabalhou-com-jair-e-flavio-bolsonaro-fara-pre-campanha-presidencial-de-cury.shtml))
+- **Assessoria jurídica:** O Globo (blog Lauro Jardim) sobre busca de ex-advogada de Bolsonaro para a campanha. ([O Globo](https://oglobo.globo.com/blogs/lauro-jardim/post/2026/04/augusto-cury-procura-ex-advogada-de-bolsonaro-para-cuidar-de-sua-campanha-presidencial.ghtml))
+- **Crise Fictor / credor:** Metrópoles sobre Cury como credor em recuperação judicial do grupo Fictor (associação econômica-reputacional). ([Metrópoles](https://www.metropoles.com/sao-paulo/fictor-milhoes-augusto-cury))
+- **Articulação política:** UOL noticiando conversas com Gilberto Kassab (PSD) e outros interlocutores. ([UOL](https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/06/conversei-longamente-com-kassab-diz-augusto-cury-sobre-pre-candidatura.ghtm))
+
 ## Redes sociais e canais oficiais
 
 Canais do **partido** (divulgados no site oficial do Avante):
@@ -59,3 +70,6 @@ Canais do **partido** (divulgados no site oficial do Avante):
 5. [Congresso em Foco — Avante anuncia Augusto Cury como pré-candidato à Presidência](https://www.congressoemfoco.com.br/noticia/117846/avante-anuncia-augusto-cury-como-pre-candidato-a-presidencia)
 6. [Florida Christian University — nota sobre defesa de doutorado (2013)](https://floridachristianuniversity.edu/2013/12/12/dr-augusto-cury-defende-doutourado-e-lanca-o-projeto-global-free-mind-no-interseminars-2013/)
 7. [Wikipédia em português — Augusto Cury](https://pt.wikipedia.org/wiki/Augusto_Cury) (consulta auxiliar)
+8. [Ficha Limpa — Wikipedia (inglês)](https://en.wikipedia.org/wiki/Ficha_Limpa)
+9. [Folha — MEC, Capes e Florida Christian University](https://www1.folha.uol.com.br/educacao/2020/03/mec-faz-acordo-com-faculdade-de-coaching-religioso-dos-eua.shtml)
+10. [Folha — Painel, marqueteiro e pré-campanha de Cury](https://www1.folha.uol.com.br/colunas/painel/2026/04/marqueteiro-que-trabalhou-com-jair-e-flavio-bolsonaro-fara-pre-campanha-presidencial-de-cury.shtml)

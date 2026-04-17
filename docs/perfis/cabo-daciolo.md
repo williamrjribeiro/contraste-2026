@@ -1,6 +1,6 @@
 # Benevenuto Daciolo Fonseca dos Santos
 
-*Slug: `cabo-daciolo` · Atualizado: 2026-04-16 · Status: pré-candidatura*
+*Slug: `cabo-daciolo` · Atualizado: 2026-04-17 · Status: pré-candidatura*
 
 **Nome de urna / como é conhecido:** Cabo Daciolo  
 **Partido (pré-candidatura 2026):** Mobiliza (sigla MOB; legenda associada na imprensa ao antigo PMN — Partido da Mobilização Nacional)  
@@ -40,6 +40,18 @@ Em 2026, a imprensa registrou anúncio de pré-candidatura à Presidência pelo 
 - **Março de 2026:** anúncio público de pré-candidatura ao Senado (com foco no Amazonas), segundo o G1.
 - **Abril de 2026:** anúncio de pré-candidatura à Presidência pelo Mobiliza, desistindo da disputa ao Senado naquele formato, segundo o G1.
 
+## Controvérsias, investigações e críticas públicas
+
+- **Impeachment de Temer:** protocolo de pedido de impeachment ainda na vice-presidência. ([DGABC](https://www.dgabc.com.br/Noticia/1675627/cabo-daciolo-sem-partido-rj-protocola-pedido-de-impeachment-de-temer))
+- **STF — Temer e Dilma:** Celso de Mello negou incluir Temer no processo de impeachment de Dilma. ([G1](https://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/04/celso-de-mello-nega-incluir-temer-em-processo-de-impeachment-de-dilma.html))
+- **Greve de bombeiros (2012) — prisão e custódia:** G1 sobre prisão por crime militar e transferência a Bangu 1. ([G1 — prisão](https://g1.globo.com/rio-de-janeiro/noticia/2012/02/cabo-daciolo-e-preso-por-crime-militar-diz-governo-do-rio.html); [G1 — Bangu](https://g1.globo.com/rio-de-janeiro/noticia/2012/02/cabo-daciolo-esta-preso-em-bangu-1-diz-comandante-dos-bombeiros.html))
+- **Expulsão de militares da greve:** Veja sobre expulsão de líderes do movimento. ([Veja](https://veja.abril.com.br/politica/lider-da-greve-dos-bombeiros-e-expulso-com-mais-12))
+- **STF — extinção da punibilidade (greve na Bahia):** notícia do STF sobre decisão da 1ª Turma envolvendo Daciolo e anistia. ([Notícias STF](https://noticias.stf.jus.br/postsnoticias/1a-turma-extingue-punibilidade-de-cabo-daciolo-por-participacao-em-greve-de-policiais-na-bahia/))
+- **Crítica jurídica à anistia:** ConJur sobre debate de “anistia” e autoria de projeto. ([ConJur](https://www.conjur.com.br/2017-dez-14/supremo-anistia-deputado-base-lei-ele-mesmo-criou/))
+- **Campanha de 2018 — polêmica com Havan:** Tribuna PR sobre promessa de retirar réplicas da Estátua da Liberdade. ([Tribuna PR](https://www.tribunapr.com.br/noticias/politica/video-cabo-daciolo-patriota-quer-derrubar-todas-as-estatuas-da-havan/))
+- **Discurso conspiratório / tom religioso:** O Povo sobre falas atribuídas a Daciolo em contexto eleitoral. ([O Povo](https://www.opovo.com.br/noticias/politica/2018/09/para-cabo-daciolo-bolsonaro-enfrenta-batalhas-de-u201cordem-espiritu.html))
+- **TSE — informações falsas sobre urnas:** O Globo sobre intimação para depor em inquérito. ([O Globo](https://oglobo.globo.com/politica/cabo-daciolo-intimado-depor-no-tse-no-inquerito-que-apura-informacoes-falsas-sobre-fraude-nas-urnas-25200373))
+
 ## Redes sociais e canais oficiais
 
 - **X (Twitter):** [twitter.com/CaboDaciolo](https://twitter.com/CaboDaciolo) (URL listada na ficha do candidato de 2018 na Folha de S.Paulo; a plataforma também é acessível via x.com).
@@ -57,3 +69,6 @@ Em 2026, a imprensa registrou anúncio de pré-candidatura à Presidência pelo 
 4. [G1 — Cabo Daciolo anuncia pré-candidatura à Presidência](https://g1.globo.com/politica/noticia/2026/04/04/cabo-daciolo-anuncia-pre-candidatura-a-presidencia-da-republica.ghtml)
 5. [G1 — pré-candidatura ao Senado pelo Amazonas (março 2026)](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/03/25/cabo-daciolo-anuncia-pre-candidatura-ao-senado-pelo-amazonas-em-evento-em-manaus.ghtml)
 6. [G1 — panorama de pré-candidatos à Presidência em 2026](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml)
+7. [Ficha Limpa — Wikipedia (inglês)](https://en.wikipedia.org/wiki/Ficha_Limpa)
+8. [Notícias STF — extinção da punibilidade (greve, Bahia)](https://noticias.stf.jus.br/postsnoticias/1a-turma-extingue-punibilidade-de-cabo-daciolo-por-participacao-em-greve-de-policiais-na-bahia/)
+9. [O Globo — intimação no TSE sobre urnas](https://oglobo.globo.com/politica/cabo-daciolo-intimado-depor-no-tse-no-inquerito-que-apura-informacoes-falsas-sobre-fraude-nas-urnas-25200373)
