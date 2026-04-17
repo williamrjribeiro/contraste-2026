@@ -43,12 +43,6 @@ Nos anos recentes, ampliou críticas à condução institucional e política do 
 - **2024:** secretário municipal de Relações Internacionais de São Paulo em gestão Ricardo Nunes, com exoneração noticiada no contexto eleitoral municipal.
 - **2025–2026:** filiação ao DC e pré-candidatura à Presidência em 2026, coberta pela grande imprensa; a página de liderança do DC lista Aldo Rebelo como pré-candidato à Presidência.
 
-## Ficha Limpa e elegibilidade (contexto jurídico)
-
-A **LC 135/2010** (“Ficha Limpa”) e a **LC 64/1990** tratam de inelegibilidades formais, em geral ancoradas em **condenações** ou em **decisões eleitorais** específicas (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
-
-Nesta varredura documental **não** foi identificada, de forma consolidada em fontes primárias anexadas aqui, **condenação criminal transitada em julgado** que, por si só, caracterize inelegibilidade “Ficha Limpa” para Aldo Rebelo. Episódios de **delação** e **reportagens investigativas** geram risco reputacional e podem alimentar **debates jurídicos**, mas **não substituem** certidões ou decisão do **TSE** sobre eventual impugnação de candidatura em 2026.
-
 ## Controvérsias, investigações e críticas públicas
 
 - **Emendas e obras / “Máfia do Asfalto”:** reportagens associam emendas de Aldo Rebelo a obras em municípios executadas por empresas alvo de investigações; Rebelo negou indicação de empresas e atribuiu execução a prefeituras. ([Estadão](https://www.estadao.com.br/politica/emenda-de-aldo-foi-para-grupo-acusado/); [Hoje em Dia](https://www.hojeemdia.com.br/politica/emenda-de-aldo-rebelo-foi-para-grupo-acusado-de-fraudes-1.221425))

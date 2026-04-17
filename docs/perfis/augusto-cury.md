@@ -38,12 +38,6 @@ Em 2026, o Avante divulgou publicamente sua pré-candidatura à Presidência, en
 - **2026:** filiação anunciada ao Avante e pré-candidatura à Presidência da República divulgada pelo partido em 5 de abril de 2026, com ampla repercussão na imprensa (G1, Folha, entre outros).
 - **Demais cargos eletivos:** não há registro público, nesta pesquisa, de mandatos eletivos anteriores; trata-se de estreia partidária em nível nacional segundo declarações à imprensa.
 
-## Ficha Limpa e elegibilidade (contexto jurídico)
-
-A **LC 135/2010** (“Ficha Limpa”) e a **LC 64/1990** disciplinam inelegibilidades com base em **condenações** e outras hipóteses legais (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
-
-Críticas de **mérito científico**, **reputação comercial** ou **escolhas de equipe de campanha** não se confundem, por si sós, com inelegibilidade. Se surgirem **sanções** de conselho profissional ou **sentenças** com trânsito, a análise deve partir de **certidões** e de decisões concretas na data do registro no **TSE**.
-
 ## Controvérsias, investigações e críticas públicas
 
 - **Parceria MEC/Capes e Florida Christian University (2020):** Folha descreve acordo e contexto de controvérsias envolvendo a FCU no Brasil; Cury aparece como palestrante previsto em evento associado. ([Folha](https://www1.folha.uol.com.br/educacao/2020/03/mec-faz-acordo-com-faculdade-de-coaching-religioso-dos-eua.shtml))

@@ -42,12 +42,6 @@ Em 2026, a imprensa registrou sua migração partidária para o PSD e a confirma
 - **2019–2026:** governador de Goiás (dois mandatos); deixa o cargo em 31 de março de 2026 para concorrer à Presidência, com sucessão reportada na imprensa.
 - **Trajetória partidária (resumo):** histórico de filiações e migrações entre legendas de centro-direita ao longo das décadas; em 2026, cobertura jornalística registra filiação ao PSD e nome como pré-candidato à Presidência.
 
-## Ficha Limpa e elegibilidade (contexto jurídico)
-
-A **LC 135/2010** (“Ficha Limpa”) e a **LC 64/1990** tratam de inelegibilidades formais; a conclusão sobre **cassação de registro**, **multa** ou **inelegibilidade** depende de decisão da **Justiça Eleitoral** (TRE/TSE) no caso concreto (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
-
-Em **dezembro de 2024**, o **TRE-GO** condenou Ronaldo Caiado por **abuso de poder político** em episódio no Palácio das Esmeraldas, com repercussão sobre inelegibilidade na imprensa. Em **abril de 2025**, o **TRE-GO** reverteu a **inelegibilidade de oito anos** por unanimidade, mantendo **multa** — matérias citam possibilidade de recurso ao **TSE**. Não cabe a este arquivo antecipar o desfecho de recursos sem acórdão atualizado.
-
 ## Controvérsias, investigações e críticas públicas
 
 - **Abuso de poder político / Palácio das Esmeraldas (2024–2025):** G1 (Jornal Nacional) sobre condenação em primeira instância e cassação correlata ao prefeito eleito; JC UOL sobre reversão da inelegibilidade de Caiado em 2025. ([G1](https://g1.globo.com/jornal-nacional/noticia/2024/12/11/tre-de-goias-condena-ronaldo-caiado-por-abuso-de-poder-politico-e-cassa-registro-do-prefeito-eleito-de-goiania-sandro-mabel.ghtml); [JC UOL](https://jc.uol.com.br/politica/2025/04/08/tre-de-goias-derruba-decisao-e-torna-ronaldo-caiado-elegivel-para-disputar-a-presidencia-em-2026.html))

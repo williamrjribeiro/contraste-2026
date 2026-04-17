@@ -37,12 +37,6 @@ Em fevereiro de 2026, o noticiário passou a referenciá-lo explicitamente como 
 - **2025–2026:** descrito pelo G1 como escolhido para encabeçar pré-candidatura presidencial pelo PL, com confirmação pública atribuída ao ex-presidente Jair Bolsonaro em entrevista e agenda repercutidas pela imprensa.
 - **2026:** reportagens tratam o desenho como pré-campanha presidencial (por exemplo, Valor Econômico, 15/02/2026).
 
-## Ficha Limpa e elegibilidade (contexto jurídico)
-
-A **LC 135/2010** (“Ficha Limpa”) e a **LC 64/1990** listam hipóteses formais de **inelegibilidade** (condenações criminais em trânsito ou decisões colegiadas em crimes previstos na lei, conforme interpretação vigente; ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
-
-Investigações e processos em curso **não** equivalem, por si sós, a inelegibilidade: o TSE só veda registro quando a situação jurídica concreta se enquadrar na lei e na jurisprudência aplicável **na data** do pedido. Para 2026, vale acompanhar decisões do **TRE-RJ**, **TSE**, **STJ** e **STF** nos autos que envolvem o senador.
-
 ## Controvérsias, investigações e críticas públicas
 
 - **“Rachadinha” na Alerj:** linha do tempo da apuração com relatórios do Coaf e desdobramentos judiciais narrados pela imprensa. ([O Globo](https://oglobo.globo.com/politica/noticia/2024/07/17/rachadinha-passo-a-passo-do-relatorio-do-coaf-a-anulacao-veja-a-linha-do-tempo-da-apuracao-sobre-flavio-bolsonaro.ghtml))

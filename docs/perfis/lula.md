@@ -1,6 +1,6 @@
 # Luiz Inácio Lula da Silva
 
-*Slug: `lula` · Atualizado: 2026-04-17 · Status: pré-candidatura (reeleição)*
+*Slug: `lula` · Atualizado: 2026-04-18 · Status: pré-candidatura (reeleição)*
 
 **Nome de urna / como é conhecido:** Lula  
 **Partido (pré-candidatura 2026):** Partido dos Trabalhadores (PT)  
@@ -43,14 +43,9 @@ Retornou à Presidência após vitória no segundo turno em 2022, conforme apura
 - **2022:** eleito presidente no segundo turno (registro e proclamação pelo TSE).
 - **2023–atualidade:** presidente da República em exercício; em 2026, tratado publicamente como pré-candidato à reeleição pelo PT.
 
-## Ficha Limpa e elegibilidade (contexto jurídico)
-
-A **Lei Complementar 135/2010** (“Ficha Limpa”) alterou a **LC 64/1990** e consolidou hipóteses de **inelegibilidade** ligadas a condenações e a certos atos de improbidade, em debate permanente com o **STF** sobre alcance temporal e relação com a presunção de inocência (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos legais: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
-
-No caso de Lula, o **TSE indeferiu o registro de candidatura em 2018** no contexto das condenações da Operação Lava Jato e da interpretação então dominante sobre inelegibilidade. Após decisões do **STF** que anularam condenações originadas na 13ª Vara Federal de Curitiba e reorganizaram o quadro processual, o **TSE deferiu o registro em 2022**, permitindo a candidatura vitoriosa. Para **2026**, a elegibilidade definitiva depende do estado processual na data do pedido de registro e de eventuais **impugnações** — não cabe a este perfil antecipar o resultado sem decisão do TSE.
-
 ## Controvérsias, investigações e críticas públicas
 
+- **Registro no TSE e Lei da Ficha Limpa (LC 135/2010 / LC 64/1990):** o **TSE indeferiu o registro de candidatura em 2018** no contexto das condenações da Operação Lava Jato e da interpretação então dominante sobre inelegibilidade. Após o **STF** anular condenações originadas na 13ª Vara Federal de Curitiba e reorganizar o quadro processual, o **TSE deferiu o registro em 2022**, permitindo a candidatura vitoriosa. Para **2026**, a situação depende do estado processual na data do pedido de registro e de eventuais **impugnações** — não cabe a este perfil antecipar o resultado sem decisão do TSE ([Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa); [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm); [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm)).
 - **Mensalão (2005–2012):** escândalo de compra de apoio parlamentar no primeiro governo petista; julgamento no STF e condenações de aliados, com impacto duradouro na imagem do PT e de Lula como líder da coalizão. ([Folha — especial Mensalão](https://arte.folha.uol.com.br/poder/2025/06/04/o-escandalo-do-mensalao/))
 - **Operação Lava Jato — caso tríplex:** condenação por corrupção passiva e lavagem de dinheiro em primeira instância (Sérgio Moro), com ampla repercussão. ([BBC Brasil](https://www.bbc.com/portuguese/brasil-40488914))
 - **TRF-4:** manutenção/amplição da condenação em instância colegiada, alimentando debate sobre provas e política. ([BBC Brasil](https://www.bbc.com/portuguese/brasil-42809665))

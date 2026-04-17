@@ -35,12 +35,6 @@ Em agosto de 2025, reportagens descrevem o lançamento público da pré-candidat
 - **2019–2026:** governador de Minas Gerais; renúncia em 22 de março de 2026 para pré-campanha presidencial, com sucessão reportada pela imprensa.
 - **2025–2026:** pré-candidatura à Presidência pelo Novo (anúncio em agosto de 2025 segundo cobertura jornalística ampla; reafirmações e entrevistas em 2026).
 
-## Ficha Limpa e elegibilidade (contexto jurídico)
-
-A **LC 135/2010** (“Ficha Limpa”) e a **LC 64/1990** definem hipóteses de inelegibilidade com base em **condenações** e outros atos previstos em lei (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
-
-Controvérsias de gestão (fiscalização do **TCE-MG**, **MP**, debates sobre **renúncia fiscal** ou **privatizações**) podem gerar **risco político** e **responsabilização administrativa**, mas **inelegibilidade** só pode ser afirmada com decisão que preencha os requisitos legais e, quando couber, **trânsito** ou **decisão colegiada** na forma exigida.
-
 ## Controvérsias, investigações e críticas públicas
 
 - **Crise com o STF (2026):** Estado de Minas e O Globo sobre fala de Zema defendendo prisão de ministros do STF. ([Estado de Minas](https://www.em.com.br/politica/2026/04/7396742-zema-defende-prisao-de-ministros-do-stf.html); [O Globo](https://oglobo.globo.com/politica/noticia/2026/04/13/nao-merecem-so-impeachment-mas-prisao-diz-romeu-zema-sobre-ministros-do-stf.ghtml))

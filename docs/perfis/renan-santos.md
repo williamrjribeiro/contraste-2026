@@ -39,12 +39,6 @@ Sua trajetória pública também é acompanhada de reportagens sobre passivos e 
 - **4 de novembro de 2025:** TSE homologa registro do Partido Missão (marco formal da legenda).
 - **2025–2026:** posicionamento público como pré-candidato à Presidência pelo Missão, com agendas estaduais e entrevistas em veículos nacionais e regionais.
 
-## Ficha Limpa e elegibilidade (contexto jurídico)
-
-A **LC 135/2010** (“Ficha Limpa”) costuma operar, na prática discutida publicamente, sobre **condenação criminal** em moldes previstos na lei (e debates sobre colegiado e trânsito), enquanto a **LC 64/1990** organiza inelegibilidades e sanções no âmbito eleitoral (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
-
-**Investigações, ações cíveis e litígio massificado** podem afetar reputação e gerar risco político, mas **não** se traduzem automaticamente em inelegibilidade “Ficha Limpa” sem encaixe legal e decisão. Em **novembro de 2025**, o **TSE homologou o registro do Partido Missão** — marco institucional da legenda, sem substituir eventual **impugnação de candidatura** em 2026.
-
 ## Controvérsias, investigações e críticas públicas
 
 - **Financiamento e estrutura do MBL:** reportagem do *El País* repercutida no Brasil sobre fluxos financeiros para entidades ligadas à família Santos (debate sobre transparência). ([Revista Fórum — síntese](https://revistaforum.com.br/politica/2017/9/30/renovao-liberal-el-pais-revela-esquema-de-financiamento-do-mbl-23316.html))

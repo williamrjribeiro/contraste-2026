@@ -40,12 +40,6 @@ Em 2026, a imprensa registrou anúncio de pré-candidatura à Presidência pelo 
 - **Março de 2026:** anúncio público de pré-candidatura ao Senado (com foco no Amazonas), segundo o G1.
 - **Abril de 2026:** anúncio de pré-candidatura à Presidência pelo Mobiliza, desistindo da disputa ao Senado naquele formato, segundo o G1.
 
-## Ficha Limpa e elegibilidade (contexto jurídico)
-
-A **LC 135/2010** (“Ficha Limpa”) e a **LC 64/1990** prevêem inelegibilidades com base em **condenações** e em **infrações eleitorais** específicas (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
-
-Episódios militares/criminais antigos (prisão, expulsão) e **falas polêmicas** geram **risco de imagem**, mas a **elegibilidade** em 2026 exige confrontar cada fato com **certidões**, **extinção da punibilidade** ou **decisões** pertinentes. O **STF** já julgou extinção da punibilidade em caso ligado a greve na Bahia com fundamento em lei de anistia — **caso distinto**, mas útil como referência de como o tema pode reaparecer no debate público.
-
 ## Controvérsias, investigações e críticas públicas
 
 - **Impeachment de Temer:** protocolo de pedido de impeachment ainda na vice-presidência. ([DGABC](https://www.dgabc.com.br/Noticia/1675627/cabo-daciolo-sem-partido-rj-protocola-pedido-de-impeachment-de-temer))
