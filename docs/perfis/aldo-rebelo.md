@@ -1,6 +1,6 @@
 # José Aldo Rebelo Figueiredo
 
-*Slug: `aldo-rebelo` · Atualizado: 2026-04-16 · Status: pré-candidatura*
+*Slug: `aldo-rebelo` · Atualizado: 2026-04-17 · Status: pré-candidatura*
 
 **Nome de urna / como é conhecido:** Aldo Rebelo  
 **Partido (pré-candidatura 2026):** Democracia Cristã (DC)  
@@ -43,6 +43,21 @@ Nos anos recentes, ampliou críticas à condução institucional e política do 
 - **2024:** secretário municipal de Relações Internacionais de São Paulo em gestão Ricardo Nunes, com exoneração noticiada no contexto eleitoral municipal.
 - **2025–2026:** filiação ao DC e pré-candidatura à Presidência em 2026, coberta pela grande imprensa; a página de liderança do DC lista Aldo Rebelo como pré-candidato à Presidência.
 
+## Ficha Limpa e elegibilidade (contexto jurídico)
+
+A **LC 135/2010** (“Ficha Limpa”) e a **LC 64/1990** tratam de inelegibilidades formais, em geral ancoradas em **condenações** ou em **decisões eleitorais** específicas (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
+
+Nesta varredura documental **não** foi identificada, de forma consolidada em fontes primárias anexadas aqui, **condenação criminal transitada em julgado** que, por si só, caracterize inelegibilidade “Ficha Limpa” para Aldo Rebelo. Episódios de **delação** e **reportagens investigativas** geram risco reputacional e podem alimentar **debates jurídicos**, mas **não substituem** certidões ou decisão do **TSE** sobre eventual impugnação de candidatura em 2026.
+
+## Controvérsias, investigações e críticas públicas
+
+- **Emendas e obras / “Máfia do Asfalto”:** reportagens associam emendas de Aldo Rebelo a obras em municípios executadas por empresas alvo de investigações; Rebelo negou indicação de empresas e atribuiu execução a prefeituras. ([Estadão](https://www.estadao.com.br/politica/emenda-de-aldo-foi-para-grupo-acusado/); [Hoje em Dia](https://www.hojeemdia.com.br/politica/emenda-de-aldo-rebelo-foi-para-grupo-acusado-de-fraudes-1.221425))
+- **Lava Jato — delação de Pedro Corrêa:** acusação de recebimento de propina ligada ao Minha Casa, Minha Vida; Rebelo negou. ([O Globo](https://oglobo.globo.com/politica/aldo-rebelo-recebeu-propina-diz-ex-deputado-pedro-correa-19533623); [Valor Econômico](https://valor.globo.com/politica/noticia/2016/06/17/aldo-rebelo-recebia-um-terco-de-propina-voltada-ao-pcdob-diz-delator.ghtml))
+- **Código Florestal (2011–2012):** forte polarização ambientalista versus setores ruralistas; WWF criticou parecer atribuído a Rebelo; BBC explicou o embate público. ([WWF-Brasil](https://www.wwf.org.br/?25280%2FParecer-de-Aldo-Rebelo-sobre-mudancas-no-Codigo-Florestal-e-desastroso-dizem-ambientalistas%3D); [BBC News Brasil](https://www.bbc.com/portuguese/noticias/2011/05/110510_codigo_florestal_qa_mdb))
+- **Demarcação de terras indígenas:** entrevista ao Estadão e registro na TV Câmara sobre posicionamento crítico a modelos de demarcação (tema historicamente sensível). ([Estadão](https://www.estadao.com.br/politica/integra-da-entrevista-de-aldo-rebelo-sobre-a-questao-indigena/); [TV Câmara](https://www.camara.leg.br/tv/200752-rebelo-critica-demarcacao-continua-em-raposa-serra-do-sol/))
+- **Futebol / Copa de 2014:** cobertura sobre CPI da CBF e nomeação ao Ministério do Esporte sob críticas de conflito de imagem. ([Gazeta do Povo](https://www.gazetadopovo.com.br/vida-publica/ex-presidente-de-cpi-sobre-cbf-aldo-assume-esporte-a047zlye660cwbu3h6uowl6by))
+- **STF — depoimento em 2025:** Folha e Estado de Minas sobre episódio em audiência em que Alexandre de Moraes teria ameaçado prisão por desacato; Rebelo classificou conduta como intimidação. ([Folha](https://www1.folha.uol.com.br/poder/2025/05/moraes-ameaca-prender-aldo-rebelo-por-desacato-em-depoimento-sobre-trama-golpista.shtml); [Estado de Minas](https://www.em.com.br/politica/2025/05/7154949-em-conturbado-depoimento-moraes-ameaca-prender-aldo-rebelo-por-desacato.html))
+
 ## Redes sociais e canais oficiais
 
 - **X (Twitter):** Não localizado com segurança nesta pesquisa.
@@ -62,3 +77,5 @@ Nos anos recentes, ampliou críticas à condução institucional e política do 
 6. [Governo Federal — Ministério da Defesa: notícia sobre nomeação de Aldo Rebelo como ministro da Defesa](https://www.gov.br/defesa/pt-br/centrais-de-conteudo/noticias/ultimas-noticias/jaques-wagner-assumira-a-casa-civil-e-aldo-rebelo-sera-o-novo-ministro-da-defesa)
 7. [CNN Brasil — cobertura do lançamento da pré-candidatura](https://www.cnnbrasil.com.br/eleicoes/aldo-rebelo-lanca-pre-candidatura-ao-planalto/)
 8. [Wikipédia em português — Aldo Rebelo](https://pt.wikipedia.org/wiki/Aldo_Rebelo) (consulta auxiliar; preferir fontes primárias do verbete)
+9. [Ficha Limpa — Wikipedia (inglês)](https://en.wikipedia.org/wiki/Ficha_Limpa)
+10. [Folha — Moraes e depoimento de Aldo Rebelo (2025)](https://www1.folha.uol.com.br/poder/2025/05/moraes-ameaca-prender-aldo-rebelo-por-desacato-em-depoimento-sobre-trama-golpista.shtml)

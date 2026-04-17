@@ -1,6 +1,6 @@
 # Renan Antônio Ferreira dos Santos
 
-*Slug: `renan-santos` · Atualizado: 2026-04-16 · Status: pré-candidatura*
+*Slug: `renan-santos` · Atualizado: 2026-04-17 · Status: pré-candidatura*
 
 **Nome de urna / como é conhecido:** Renan Santos  
 **Partido (pré-candidatura 2026):** Partido Missão  
@@ -39,6 +39,24 @@ Sua trajetória pública também é acompanhada de reportagens sobre passivos e 
 - **4 de novembro de 2025:** TSE homologa registro do Partido Missão (marco formal da legenda).
 - **2025–2026:** posicionamento público como pré-candidato à Presidência pelo Missão, com agendas estaduais e entrevistas em veículos nacionais e regionais.
 
+## Ficha Limpa e elegibilidade (contexto jurídico)
+
+A **LC 135/2010** (“Ficha Limpa”) costuma operar, na prática discutida publicamente, sobre **condenação criminal** em moldes previstos na lei (e debates sobre colegiado e trânsito), enquanto a **LC 64/1990** organiza inelegibilidades e sanções no âmbito eleitoral (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
+
+**Investigações, ações cíveis e litígio massificado** podem afetar reputação e gerar risco político, mas **não** se traduzem automaticamente em inelegibilidade “Ficha Limpa” sem encaixe legal e decisão. Em **novembro de 2025**, o **TSE homologou o registro do Partido Missão** — marco institucional da legenda, sem substituir eventual **impugnação de candidatura** em 2026.
+
+## Controvérsias, investigações e críticas públicas
+
+- **Financiamento e estrutura do MBL:** reportagem do *El País* repercutida no Brasil sobre fluxos financeiros para entidades ligadas à família Santos (debate sobre transparência). ([Revista Fórum — síntese](https://revistaforum.com.br/politica/2017/9/30/renovao-liberal-el-pais-revela-esquema-de-financiamento-do-mbl-23316.html))
+- **IHU/Unisinos:** texto acadêmico-divulgativo com críticas à estrutura do MBL e a doações. ([IHU Unisinos](https://ihu.unisinos.br/572286))
+- **MP e “lavagem de dinheiro” no MBL:** Metrópoles explica linha da investigação (com respostas do movimento na matéria). ([Metrópoles](https://www.metropoles.com/brasil/entenda-por-que-promotoria-investiga-lavagem-de-dinheiro-no-mbl))
+- **MP-SP — denúncia (2020):** iG sobre denúncia contra líderes do MBL por tráfico de influência e fraude em licitação (âmbito acusatório). ([iG](https://ultimosegundo.ig.com.br/politica/2020-10-26/lider-do-mbl-e-denunciado-por-trafico-de-influencia-e-fraude-em-licitacao.html))
+- **PF e postagem sobre Lula:** Metrópoles sobre intimação/coleta de depoimento após postagem política. ([Metrópoles](https://www.metropoles.com/sao-paulo/pf-convoca-lider-do-mbl-para-explicar-postagem-contra-lula))
+- **Estadão — investigação por suposta difamação:** cobertura sobre apuração envolvendo membros do MBL. ([Estadão](https://www.estadao.com.br/politica/membros-do-mbl-investigados-policia-federal-suposta-difamacao-lula-nprp/))
+- **The Intercept Brasil — assinaturas para partido:** reportagem sobre alegações de irregularidades na coleta de apoios. ([The Intercept Brasil](https://www.intercept.com.br/2020/09/30/mbl-comprar-assinaturas-partido-patriota/))
+- **Litígio e cobranças:** reportagem cita volume elevado de processos e cobranças milionárias — checar números e status em fontes primárias antes de usar em peça técnica. ([Expresso AM](https://www.expressoam.com/lider-do-mbl-responde-mais-de-60-processos-e-sofre-cobranca-de-r-49-mi/))
+- **Condenação cível (indenização):** Fórum sobre decisão envolvendo Kim Kataguiri e Renan Santos em caso de publicações (dano moral / discurso). ([Revista Fórum](https://revistaforum.com.br/brasil/2024/8/18/condenados-kim-kataguiri-renan-santos-do-mbl-vo-pagar-churrasco-de-caetano-veloso-paula-lavigne-164073.html))
+
 ## Redes sociais e canais oficiais
 
 - **X (Twitter):** [x.com/renansantosmbl](https://x.com/renansantosmbl)
@@ -58,3 +76,7 @@ Sua trajetória pública também é acompanhada de reportagens sobre passivos e 
 4. [Folha PE — agenda de pré-candidato à Presidência pelo Missão](https://www.folhape.com.br/colunistas/blogdafolha/pre-candidato-a-presidente-pelo-missao-renan-santos-cumpre-agenda/54857/)
 5. [Agência Senado — matéria de contexto sobre rejeição da PEC 37 (2013)](https://www12.senado.leg.br/noticias/materias/2013/06/25/camara-rejeita-pec-37)
 6. [Wikipédia em português — Renan Santos](https://pt.wikipedia.org/wiki/Renan_Santos) (consulta auxiliar)
+7. [Ficha Limpa — Wikipedia (inglês)](https://en.wikipedia.org/wiki/Ficha_Limpa)
+8. [Metrópoles — promotoria investiga “lavagem” no MBL](https://www.metropoles.com/brasil/entenda-por-que-promotoria-investiga-lavagem-de-dinheiro-no-mbl)
+9. [The Intercept Brasil — assinaturas e Patriota](https://www.intercept.com.br/2020/09/30/mbl-comprar-assinaturas-partido-patriota/)
+10. [iG — denúncia do MP-SP contra líderes do MBL (2020)](https://ultimosegundo.ig.com.br/politica/2020-10-26/lider-do-mbl-e-denunciado-por-trafico-de-influencia-e-fraude-em-licitacao.html)

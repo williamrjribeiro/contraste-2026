@@ -43,6 +43,18 @@ Dois a quatro parágrafos curtos, tom factual, em português (Brasil).
 
 - … (ordem cronológica)
 
+## Ficha Limpa e elegibilidade (contexto jurídico)
+
+Resumo objetivo: a **Lei Complementar 135/2010** (“Ficha Limpa”) alterou a **LC 64/1990** e ampliou hipóteses de **inelegibilidade** ligadas a condenações e a certos atos de improbidade (o alcance exato depende da redação legal vigente e da jurisprudência do **STF** e do **TSE**). Em linhas gerais, a análise costuma distinguir **investigação ou denúncia** de **decisão transitada em julgado** ou de **registro deferido/indeferido** pelo TSE. Referência introdutória em inglês: [Ficha Limpa (Wikipedia)](https://en.wikipedia.org/wiki/Ficha_Limpa). Texto oficial: [LC 135/2010 no Planalto](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
+
+Para este perfil: … (como o caso concreto se relaciona ou não com inelegibilidade; **não** afirmar inelegibilidade sem decisão do TSE ou trânsito em julgado na forma exigida pela lei).
+
+## Controvérsias, investigações e críticas públicas
+
+Lista factual: cada item deve apontar **acusação, investigação, decisão ou crítica** como aparece na fonte, sem equiparar automaticamente a culpa. Preferir veículos reconhecidos, tribunais e órgãos públicos.
+
+- …
+
 ## Redes sociais e canais oficiais
 
 Incluir apenas o que puder ser ligado com segurança ao mandato, à pré-campanha ou ao partido (site institucional, perfis citados pelo próprio veículo oficial ou portal do Congresso/Senado). Use URLs completas em links Markdown. Se não houver confirmação: *Não localizado com segurança nesta pesquisa.*

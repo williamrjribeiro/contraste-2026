@@ -1,6 +1,6 @@
 # Ronaldo Ramos Caiado
 
-*Slug: `ronaldo-caiado` · Atualizado: 2026-04-16 · Status: pré-candidatura*
+*Slug: `ronaldo-caiado` · Atualizado: 2026-04-17 · Status: pré-candidatura*
 
 **Nome de urna / como é conhecido:** Ronaldo Caiado  
 **Partido (pré-candidatura 2026):** Partido Social Democrático (PSD)  
@@ -42,6 +42,23 @@ Em 2026, a imprensa registrou sua migração partidária para o PSD e a confirma
 - **2019–2026:** governador de Goiás (dois mandatos); deixa o cargo em 31 de março de 2026 para concorrer à Presidência, com sucessão reportada na imprensa.
 - **Trajetória partidária (resumo):** histórico de filiações e migrações entre legendas de centro-direita ao longo das décadas; em 2026, cobertura jornalística registra filiação ao PSD e nome como pré-candidato à Presidência.
 
+## Ficha Limpa e elegibilidade (contexto jurídico)
+
+A **LC 135/2010** (“Ficha Limpa”) e a **LC 64/1990** tratam de inelegibilidades formais; a conclusão sobre **cassação de registro**, **multa** ou **inelegibilidade** depende de decisão da **Justiça Eleitoral** (TRE/TSE) no caso concreto (ver [Ficha Limpa — Wikipedia](https://en.wikipedia.org/wiki/Ficha_Limpa)). Textos: [LC 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm) e [LC 64/1990](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm).
+
+Em **dezembro de 2024**, o **TRE-GO** condenou Ronaldo Caiado por **abuso de poder político** em episódio no Palácio das Esmeraldas, com repercussão sobre inelegibilidade na imprensa. Em **abril de 2025**, o **TRE-GO** reverteu a **inelegibilidade de oito anos** por unanimidade, mantendo **multa** — matérias citam possibilidade de recurso ao **TSE**. Não cabe a este arquivo antecipar o desfecho de recursos sem acórdão atualizado.
+
+## Controvérsias, investigações e críticas públicas
+
+- **Abuso de poder político / Palácio das Esmeraldas (2024–2025):** G1 (Jornal Nacional) sobre condenação em primeira instância e cassação correlata ao prefeito eleito; JC UOL sobre reversão da inelegibilidade de Caiado em 2025. ([G1](https://g1.globo.com/jornal-nacional/noticia/2024/12/11/tre-de-goias-condena-ronaldo-caiado-por-abuso-de-poder-politico-e-cassa-registro-do-prefeito-eleito-de-goiania-sandro-mabel.ghtml); [JC UOL](https://jc.uol.com.br/politica/2025/04/08/tre-de-goias-derruba-decisao-e-torna-ronaldo-caiado-elegivel-para-disputar-a-presidencia-em-2026.html))
+- **Folha — uso do palácio para angariar apoio:** reportagem e vídeo sobre o episódio e derrota inicial na Justiça Eleitoral. ([Folha](https://www1.folha.uol.com.br/poder/2024/10/caiado-usou-palacio-para-angariar-apoio-a-candidato-e-sofreu-derrota-na-justica-assista.shtml))
+- **CPI da Covid — “kit Covid”:** cobertura sobre resposta de Caiado à comissão (alertas estaduais e aquisições). ([Dia Online](https://diaonline.ig.com.br/2021/06/11/caiado-diz-a-cpi-que-estado-fez-alertas-sobre-o-uso-do-kit-covid/))
+- **Pandemia e isolamento:** nota do governo de Goiás sobre baixa adesão ao isolamento e preparação de novo decreto. ([Goiás.gov.br — Agência Brasil Central](https://goias.gov.br/abc/caiado-confirma-que-esta-preparando-novo-decreto-apos-goias-ficar-em-ultimo-na-adesao-ao-isolamento-social/))
+- **Queimadas e agronegócio:** Valor sobre prejuízos e destruição por fogo (posicionamento público do governador). ([Valor Econômico](https://valor.globo.com/brasil/noticia/2024/09/19/gois-tem-prejuzo-de-r-15-bi-com-destruies-de-reas-produtivas-pelo-fogo-diz-caiado.ghtml))
+- **MST e ordem pública:** Fala Canedo sobre declarações de “tolerância zero” e bloqueio de ônibus em contexto de jornadas do MST. ([Fala Canedo](https://falacanedo.com.br/2024/04/16/caiado-afirma-que-nao-ira-tolerar-invasoes-do-mst-em-goias/))
+- **Conflito fundiário — Antinha de Baixo:** Mais Goiás sobre decisão do STF suspendendo desocupação. ([Mais Goiás](https://www.maisgoias.com.br/cidades/stf-suspende-desocupacao-do-povoado-antinha-de-baixo-em-santo-antonio-do-descoberto/))
+- **Promoções na PM e críticas institucionais:** Goiás 24 horas sobre sanção de projeto e críticas de “atropelo” de regras; Sinpol-GO sobre alegado favorecimento à PM. ([Goias24horas](https://goias24horas.com.br/207386-caiado-atropela-regras-da-pm-e-sanciona-projeto-que-favorece-aliados/); [Mais Goiás](https://www.maisgoias.com.br/politica/sindicato-de-policiais-civis-fala-em-favorecimento-explicito-de-caiado-a-pm-em-goias/))
+
 ## Redes sociais e canais oficiais
 
 Links divulgados no site [ronaldocaiado.com.br](https://www.ronaldocaiado.com.br/):
@@ -61,3 +78,6 @@ Links divulgados no site [ronaldocaiado.com.br](https://www.ronaldocaiado.com.br
 4. [CNN Brasil — Caiado deixa governo de Goiás para disputar Presidência](https://www.cnnbrasil.com.br/eleicoes/caiado-deixa-governo-de-goias-para-disputar-presidencia-como-terceira-via/)
 5. [TSE — Divulgação de Candidaturas e Contas Eleitorais](https://divulgacandcontas.tse.jus.br/divulga/) (consultar ficha do candidato no ano desejado)
 6. [Wikipédia em português — Ronaldo Caiado](https://pt.wikipedia.org/wiki/Ronaldo_Caiado) (secundária)
+7. [Ficha Limpa — Wikipedia (inglês)](https://en.wikipedia.org/wiki/Ficha_Limpa)
+8. [G1 — TRE-GO condena Caiado por abuso de poder político (2024)](https://g1.globo.com/jornal-nacional/noticia/2024/12/11/tre-de-goias-condena-ronaldo-caiado-por-abuso-de-poder-politico-e-cassa-registro-do-prefeito-eleito-de-goiania-sandro-mabel.ghtml)
+9. [JC UOL — TRE-GO derruba inelegibilidade de Caiado (2025)](https://jc.uol.com.br/politica/2025/04/08/tre-de-goias-derruba-decisao-e-torna-ronaldo-caiado-elegivel-para-disputar-a-presidencia-em-2026.html)
