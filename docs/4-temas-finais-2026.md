@@ -139,9 +139,39 @@ Cada tema: **slug**, **pasta**, **âncora Datafolha** (quando aplicável), **tó
 
 ***
 
+### Natureza e Meio-ambiente — terras-raras e mineração estratégica (Likert sob âncora temática maior)
+
+Este recorte integra um **âmbito temático maior** sobre **Natureza e Meio-ambiente**, onde **`desmatamento_amazonia_metas_climaticas`** aparece já como tema paralelo em `docs/3-proposta-temas-2026.md`. Os **cinco temas finais** fechados com Datafolha acima não reservam bloco próprio nem à Amazónia nem a minerais estratégicos; **mantêm-se aqui** o **slug**, os **tópicos internos** e **`accountability_type`** para **futuras afirmações Likert**, com foco atual na **cadeia de terras-raras**.
+
+Em **abril–maio de 2026**, o debate sobre **minerais críticos ou terras-raras** volta ao centro nacional (relevância global na transição energética e em setores sensíveis; **Brasil** com **elevado potencial de reservas** e **peso menor ainda na cadeia global** de refino e fornecimento). Entram nos **marcadores públicos**: operação minerária em **Goiás** (entre os casos emblemáticos, **Serra Verde** e comunicação sobre **investimento/controlador nos EUA ligado ao apoio do governo Trump**); cooperação subnacional com parceiros estrangeiros (**memorando Goiás–EUA** na anterior gestão estadual **Ronaldo Caiado**, alvo de **questionamento jurídico**); projeto de **lei** que fixaria **marco legal** sobre exploração de terras-raras, cuja análise no **Congresso** foi **adiada**, gerando atrito típico (**inclusão de estatal** versus predominânio de projeto privado) enquanto o **Planalto** indica não ver urgência para estatal e o **campo próximo ao PT defende modelo estatal.**
+
+| Campo | Valor |
+| ----- | ----- |
+| **Slug** | `terras_raras_exploracao_marco_legal_soberania_cadeia` |
+| **Pasta** | `data/terras_raras_exploracao_marco_legal_soberania_cadeia/` |
+| **Âncora Datafolha** | *Inexistente nos recortes de março/2026 já usados para fechar os cinco temas; relevância aqui por **agenda económico-estratégica e legislativa**.* |
+
+Referência de âmbito (não substitui cobertura jornalística para factos concretos): [Elementos terras-raras — Wikipédia](https://pt.wikipedia.org/wiki/Elementos_terras-raras).
+
+**Tópicos internos (exploração → Likert)**
+
+| # | Tópico | `accountability_type` |
+| - | ------ | --------------------- |
+| N.1 | Marco legal nacional (lei de exploração, licenciamento, royalties, ordenamento territorial minerário federal–estadual) | `legislative` + `shared` |
+| N.2 | Soberania e posicionamento estratégico do Brasil na cadeia global (valor agregado, refino, transição energética, indústria de defesa) | `executive_primary` + `shared` |
+| N.3 | Modelo institucional: **estatal** setorial versus predominânio de concessionárias privadas e investimento estrangeiro (inclui tensão governo/partido sobre necessidade ou não de estatal) | `legislative` + `values_only` |
+| N.4 | Cooperação subnacional com parceiros estrangeiros; licitude, transparência e controle público (memorandos intergovernativos; alteração de proprietários/controladores de projetos mineiros estratégicos) | `shared` + `executive_primary` (política externa quando aplicável) |
+| N.5 | Custos sócioambientais (água, solos e comunidades) de explorações de terras-raras no Brasil versus benefício económico | `shared` + `values_only` |
+
+**Likert futuro (exemplo orientador, formulável quando houver texto fechado de lei ou posições públicas atualizadas):** usar um enunciado concreto *“Concorda que … sobre exploração de terras-raras e papel do Estado deve ser aplicada mesmo que isso atrase investimento estrangeiro ou privado.”*, preenchendo o espaço antes de “sobre” com a **posição a testar** (texto normativo ou citação de governo/partido); desdobrar por **N.1–N.5**.
+
+***
+
 ## O que fica fora dos 5 (mas já mapeado)
 
 * **`anistia_8_janeiro`**, **`regulacao_inteligencia_artificial_brasil`**, **`desmatamento_amazonia_metas_climaticas`**, **`politica_externa_venezuela_mercosul`**, **`combate_desinformacao_regulacao_plataformas`** — continuam válidos pelo score em `docs/3-proposta-temas-2026.md`; usar como **rodízio**, **ondas** de questionários ou fusão futura (ex.: democracia + redes num segundo ciclo).
+
+* **`terras_raras_exploracao_marco_legal_soberania_cadeia`** — enquadrado no **Âmbito Natureza e Meio-ambiente**, acima (Likert paralelo aos cinco fechados; pode **fundir-se** temporalmente em questionários sobre Amazónia/indústria verde segundo o desenho de onda).
 
 * **CPI das Bets** — encaixa em **tributária/regulação** (`legislative` / `executive_primary` para regulação dentro da lei) e **valores**; contexto legal e debate presidencial: [Agência Brasil, 08/04/2026](https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-defende-proibicao-de-bets-e-mostra-preocupacao-com-endividamento) (cita Lei 14.790/2023).
 
