@@ -1,12 +1,12 @@
 Passos
 
-1. Escolher 5 temas (sem saber posição dos candidatos)
+1. Escolher **6 temas** (sem saber posição dos candidatos)
 
 2. Escolher 4 a 5 especialistas/jornalistas/instituições por tema.
-   Portanto, máximo de 25 especialistas: 5 temas x 5 especialistas.
+   Portanto, máximo de **30 especialistas**: 6 temas × 5 especialistas.
 
-3. Baseado na opinião dos especialistas, formular questionário de Afirmações Likert com 5 a 6 afirmações por tema.
-   Portanto, máximo de 30 afirmações: 5 especialistas x 6 afirmações.
+3. Baseado na opinião dos especialistas, formular questionário de Afirmações Likert com **5 a 6 afirmações por tema**.
+   Portanto, no máximo **36 afirmações** por rodada cheia por candidato: 6 temas × 6 afirmações.
 
 4. Candidatos a analisar:
    \| Candidato | Partido | Posicionamento |
@@ -18,6 +18,6 @@ Passos
    \| Renan Santos | Missão | Centro-direita — fundador do MBL |
    \| Ciro Gomes | PDT | Centro-esquerda — candidatura a confirmar |
 
-5. Cada candidato responde os questionários de cada tema. Portanto, máximo de 30 questionários: 5 temas x 6 afirmações.
+5. Cada candidato responde às afirmações Likert **de cada um dos 6 temas** (até 6 afirmações por tema), num total de até **36** respostas por candidato quando todos os temas estiverem com o máximo de afirmações.
 
-6. A respostas de cada candidato deve ser guardada em arquivo CSV por tema. Portanto, máximo de 35 arquivos CSV: 7 candidatos x 5 temas.
+6. As respostas de cada candidato devem ser guardadas em arquivo **CSV por tema**. Portanto, no máximo **42 arquivos CSV**: 7 candidatos × 6 temas.

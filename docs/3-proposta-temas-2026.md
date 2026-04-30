@@ -1,6 +1,6 @@
 # Proposta de temas — Brasil 2026 (avaliação paralela)
 
-**Lista fechada dos cinco temas, tópicos internos e `accountability_type`:** ver `docs/4-temas-finais-2026.md`.
+**Lista fechada dos seis temas, tópicos internos e `accountability_type`:** ver `docs/4-temas-finais-2026.md` (temas **1–5** alinhados ao Datafolha; tema **6** — Natureza e Meio‑ambiente).
 
 Este ficheiro consolida **dez avaliações independentes** feitas em paralelo (cada uma com foco num tema), seguindo o quadro de `docs/1-metodologia-tema.md`:
 
@@ -35,10 +35,10 @@ O site do **Datafolha** ([https://datafolha.folha.uol.com.br/](https://datafolha
 | Segurança pública/violência (19%) | `seguranca_publica_politica_armas` |
 | Economia / preços / inflação (11%) | `implementacao_reforma_tributaria_iv_dual` (efeitos de transição e setores) |
 | Educação (9%) | `novo_ensino_medio_avaliacao_financiamento` |
-| Corrupção (9%) | *Não há slug dedicado na lista de dez;* possível tema futuro ou ângulo transversal em `anistia_8_janeiro` / governança — a validar no fecho dos cinco |
+| Corrupção (9%) | *Não há slug dedicado na lista de dez;* possível tema futuro ou ângulo transversal em `anistia_8_janeiro` / governança — a validar no fecho dos seis temas principais |
 | Apoio majoritário à redução de jornada / fim do 6×1 (71%) | `jornada_trabalho_modelo_6x1` |
 
-Temas fortes no projeto mas **fora do ranking espontâneo** da pergunta federal acima — **IA**, **Amazônia/metas climáticas**, **Venezuela**, **desinformação** — continuam válidos pelo quadro de `docs/1-metodologia-tema.md`, mas pesam mais em **diferenciação programática** e **documentação técnica** do que em “top of mind” dessa pergunta específica.
+Temas fortes no projeto mas **fora do ranking espontâneo** da pergunta federal acima — **IA**, **Amazônia/metas climáticas** (agora no **tema 6**, `docs/4-temas-finais-2026.md`), **Venezuela**, **desinformação** — continuam válidos pelo quadro de `docs/1-metodologia-tema.md`, mas pesam mais em **diferenciação programática** e **documentação técnica** do que em “top of mind” dessa pergunta específica.
 
 ***
 
@@ -61,11 +61,11 @@ Temas fortes no projeto mas **fora do ranking espontâneo** da pergunta federal 
 
 ***
 
-## Conjunto sugerido para o Passo 1 (`docs/passos.md`): cinco temas
+## Conjunto sugerido para o Passo 1 (`docs/passos.md`): seis temas
 
-### Versão A — alinhamento explícito ao Datafolha (março 2026)
+### Versão A — Datafolha (março 2026) + Natureza
 
-Esta versão **espelha** os dois primeiros lugares da pergunta espontânea sobre problemas federais (**saúde**, **segurança**), o **bloco económico** (11%), a **educação** (9%) e o levantamento dedicado à **jornada/6×1** (71% a favor da redução da carga máxima). Mantém **cinco temas** sem duplicar “economia” genérica.
+Esta linha-base **espelha** os dois primeiros lugares da pergunta espontânea sobre problemas federais (**saúde**, **segurança**), o **bloco económico** (11%), a **educação** (9%) e o levantamento dedicado à **jornada/6×1** (71% pela redução da carga máxima), mais **Natureza e Meio-ambiente** (tema **6** em `docs/4-temas-finais-2026.md`), sem empilhar dois temas apenas “economia” genérica.
 
 | # | Tema | Slug | Pasta sugerida | Âncora Datafolha |
 | - | ---- | ---- | --------------- | ---------------- |
@@ -74,26 +74,30 @@ Esta versão **espelha** os dois primeiros lugares da pergunta espontânea sobre
 | 3 | Segurança pública e política de armas | `seguranca_publica_politica_armas` | `data/seguranca_publica_politica_armas/` | Segurança/violência 19% (12/03/2026) |
 | 4 | Implementação da reforma tributária (IVA dual) | `implementacao_reforma_tributaria_iv_dual` | `data/implementacao_reforma_tributaria_iv_dual/` | Bloco económico/inflação/preços 11% |
 | 5 | Novo Ensino Médio, SAEB/Enem e financiamento | `novo_ensino_medio_avaliacao_financiamento` | `data/novo_ensino_medio_avaliacao_financiamento/` | Educação 9% |
+| 6 | Natureza e Meio-ambiente (Amazônia, clima, biodiversidade, mineração) | `natureza_meio_ambiente_amazonia_clima_mineracao` | `data/natureza_meio_ambiente_amazonia_clima_mineracao/` | Agenda programática/fora da pergunta espontânea federal já usada nos n.os 1–5 |
 
 ### Versão B — equilíbrio “agenda pública + diferenciação de campanha”
 
-Se quiser **forçar** um eixo de **democracia institucional** que polariza pré-candidatos mas **não aparece** como categoria espontânea nesse recorte do Datafolha, troque o **#5** da Versão A por **`anistia_8_janeiro`**, ou o **#4** por **anistia** e mantenha a tributária como **reserva** (ver abaixo).
+Se quiser **forçar** um eixo de **democracia institucional** que polariza pré-candidatos mas **não aparece** como categoria espontânea nesse recorte do Datafolha, troque o **#5** da Versão A por **`anistia_8_janeiro`**, ou o **#4** pela anistia, **mantendo o tema #6 Natureza** (ou reorganize cotas usando as **Reservas** abaixo).
 
 | # | Tema | Slug | Pasta sugerida |
 | - | ---- | ---- | --------------- |
 | 1 | Jornada de trabalho / 6×1 | `jornada_trabalho_modelo_6x1` | `data/jornada_trabalho_modelo_6x1/` |
 | 2 | Anistia e atos de 8 de janeiro de 2023 | `anistia_8_janeiro` | `data/anistia_8_janeiro/` |
 | 3 | Regulação de IA no Brasil | `regulacao_inteligencia_artificial_brasil` | `data/regulacao_inteligencia_artificial_brasil/` |
-| 4 | Amazônia, desmatamento e metas climáticas | `desmatamento_amazonia_metas_climaticas` | `data/desmatamento_amazonia_metas_climaticas/` |
+| 4 | Implementação da reforma tributária (IVA dual) | `implementacao_reforma_tributaria_iv_dual` | `data/implementacao_reforma_tributaria_iv_dual/` |
 | 5 | Financiamento do SUS, planos e emendas | `sus_financiamento_planos_emendas_regionalizacao` | `data/sus_financiamento_planos_emendas_regionalizacao/` |
+| 6 | Natureza e Meio-ambiente (Amazônia, clima, biodiversidade, mineração) | `natureza_meio_ambiente_amazonia_clima_mineracao` | `data/natureza_meio_ambiente_amazonia_clima_mineracao/` |
 
-**Reservas (troca 1:1):** `seguranca_publica_politica_armas` (Datafolha 19%) se a Versão B ficar sem segurança; `implementacao_reforma_tributaria_iv_dual` (Datafolha 11% económico) em lugar do **#4** ou **#5** conforme a sua prioridade analítica.
+*Nota:* o recorte paralelo **`desmatamento_amazonia_metas_climaticas`** integra‑se sobretudo nos subtópicos **6.1** e **6.2** de `docs/4-temas-finais-2026.md`; evita‑se duplicar **#6** apenas com esse slug quando o projeto já fecha o tema **Natureza**.
+
+**Reservas (troca 1:1):** `seguranca_publica_politica_armas` (Datafolha 19%) se precisar de segurança explícita; `desmatamento_amazonia_metas_climaticas` como etiqueta só de dossier dentro do **tema 6**; outros slugs paralelos segundo `docs/4-temas-finais-2026.md` secção «fora dos 6».
 
 ***
 
 ## Contexto resumido (por tema sugerido)
 
-Os blocos abaixo cobrem os slugs das **Versões A e B**; use só os que corresponderem ao conjunto de cinco que fechar.
+Os blocos abaixo cobrem os slugs das **Versões A e B**; use só os que corresponderem ao conjunto de **seis** temas que fechar.
 
 ### `jornada_trabalho_modelo_6x1`
 
@@ -109,7 +113,11 @@ Tramitação do **PL 2338/2023**, projetos satélites (deepfakes, governo, autor
 
 ### `desmatamento_amazonia_metas_climaticas`
 
-Indicadores oficiais e de alerta (**MMA**, **INPE/DETER**, **IBAMA**) dão âncora quantitativa; o tema cruza **soberania ambiental**, **agro**, **regularização fundiária** e **diplomacia climática**. A disputa entre **modelo de fiscalização** e **flexibilização/licenciamento** aparece de forma diferenciada entre campos políticos.
+Indicadores oficiais e de alerta (**MMA**, **INPE/DETER**, **IBAMA**) dão âncora quantitativa; cruza **soberania ambiental**, **agro**, **regularização fundiária** e **diplomacia climática**. Este slug continua válido como **rótulo de avaliação** na tabela dos dez; no fecho atual do projeto, o conteúdo operacional vai para **`natureza_meio_ambiente_amazonia_clima_mineracao`** (subtópicos **6.1**, **6.2**).
+
+### `natureza_meio_ambiente_amazonia_clima_mineracao`
+
+Tema **6** obrigatório em `docs/4-temas-finais-2026.md`: **Amazônia**, **clima/NDCs**, **água**, **biodiversidade** e vértice **mineração / terras-raras** (**6.a** e **6.b**). Permite **várias Likert facetadas** no mesmo formulário desde que cada enunciado incida em combinações distintas de valor × `accountability_type`.
 
 ### `sus_financiamento_planos_emendas_regionalizacao`
 
@@ -131,4 +139,4 @@ O bloco **económico** agregado (inflação, economia em geral, aumento de preç
 
 ## Próximo passo (após a sua revisão)
 
-Quando fechar os **cinco temas**, seguir o Passo 2 em `docs/passos.md` e `docs/2-metodologia-especialistas.md`: **4 a 5 especialistas por tema** (máximo 25).
+Quando fechar os **seis temas**, seguir o Passo 2 em `docs/passos.md` e `docs/2-metodologia-especialistas.md`: **4 a 5 especialistas por tema** (no máximo **30** cotas quando todos os temas levarem o teto de cinco especialistas cada).
